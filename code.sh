@@ -9,4 +9,4 @@
    aria-label="Star yourusername/your-repo on GitHub">
    Star
 </a>
-
+<trigger>
